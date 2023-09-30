@@ -30,9 +30,8 @@ Entre na pasta dist que será criada na pasta do código e clique no invadeff.ex
 Para obter privilégio execute como administrador no .exe
 O aplicativo de interface gráfica será iniciado. Clique no botão "Iniciar Monitoramento" para começar a monitorar processos e arquivos suspeitos.
 
-Funcionalidades
+Funcionalidades:
+
 Monitoramento de Processos: O programa verifica regularmente os processos em execução e exibe uma mensagem se detectar um processo suspeito.
-
 Monitoramento de Arquivos: Qualquer alteração em arquivos na pasta monitorada será registrada, e se uma modificação suspeita for detectada, uma mensagem será exibida.
-
 Encerramento de Processos Suspeitos: O programa tentará encerrar os processos suspeitos que estão interagindo com os arquivos monitorados.

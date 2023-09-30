@@ -17,12 +17,12 @@ import tkinter as tk
 from tkinter import ttk, scrolledtext
 
 
-Como Usar
-Clone este repositório no seu computador:
+Como Usar:
+Clone este repositório no seu computador com este comando:
 
 git clone <https://github.com/l-e0/INVADEFF>
 
-Acesse o código:
+Acessando o código:
 Substitua <caminho_para_a_pasta_a_ser_monitorada> pelo caminho da pasta que você deseja monitorar. Por exemplo: C:\Financas.
 
 Dê play no código ou crie um .exe com o seguinte comando: pyinstaller --noconsole --onefile --noupx invadeff.py

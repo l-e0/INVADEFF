@@ -47,4 +47,4 @@ Monitoramento de Arquivos: Qualquer alteração em arquivos na pasta monitorada 
 
 Encerramento de Processos Suspeitos: O programa tentará encerrar os processos suspeitos que estão interagindo com os arquivos monitorados.
 
-[![Python](https://img.shields.io/badge/Python-3.8-blue)](https://www.python.org/)
+

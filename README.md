@@ -7,10 +7,6 @@ Pré-requisitos:
 
 Antes de começar, certifique-se de ter o Python instalado no seu sistema. Além disso, você precisará instalar as seguintes bibliotecas Python:
 
-
-
-
-
 import os
 import sys
 import psutil
@@ -24,6 +20,7 @@ from tkinter import ttk, scrolledtext
 
 
 Como Usar:
+
 Clone este repositório no seu computador com este comando:
 
 git clone <https://github.com/l-e0/INVADEFF>
